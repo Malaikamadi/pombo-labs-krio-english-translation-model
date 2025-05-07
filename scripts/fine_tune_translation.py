@@ -9,7 +9,7 @@ from transformers import (
 import torch
 
 # 1. Load your dataset
-dataset = load_dataset('json', data_files='krio_en_pairs.jsonl', split='train')
+dataset = load_dataset('json', data_files='krio_en_pairs_cleaned.jsonl', split='train')
 
 # 2. Load tokenizer and model
 model_checkpoint = "facebook/nllb-200-distilled-600M"
