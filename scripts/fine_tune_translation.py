@@ -38,11 +38,11 @@ data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
 # 6. Set training arguments for CPU and low memory use
 training_args = TrainingArguments(
-    output_dir="./results",                 # where to save model
+    output_dir="./results",                
     learning_rate=2e-5,
     per_device_train_batch_size=2,         
     per_device_eval_batch_size=2,
-    num_train_epochs=3,                    # set to 5 later if all is good
+    num_train_epochs=15,                   
     weight_decay=0.01,
     save_total_limit=2,
     logging_dir="./logs",
