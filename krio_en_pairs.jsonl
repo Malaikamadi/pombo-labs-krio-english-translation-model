@@ -260,7 +260,7 @@
 {"krio": "Mi fren de borrow me book.", "en": "My friend borrowed me a book."}
 {"krio": "Ar no lek pepper.", "en": "I don't like pepper."}
 {"krio": "Dem de do project.", "en": "They are doing a project."}
-{"krio": "Di match go start soon.", "en": "The match will start soon."}
+{"krio": "Di match go start jisnor.", "en": "The match will start soon."}
 {"krio": "Mi aunty travel go Bo.", "en": "My aunt travelled to Bo."}
 {"krio": "Dem de sleep inside parlour.", "en": "They are sleeping in the living room."}
 {"krio": "Ar go na internet cafe.", "en": "I went to the internet cafe."}
@@ -285,7 +285,7 @@
 {"krio": "Mi mama buy salt.", "en": "My mother bought salt."}
 {"krio": "Di light don blink.", "en": "The light is flickering."}
 {"krio": "Mi padi sabi draw.", "en": "My friend can draw."}
-{"krio": "Dem de play music.", "en": "They are playing music."}
+{"krio": "Dem de play muzic.", "en": "They are playing music."}
 {"krio": "Di man de kolay pa the uman", "en": "The man is admiring the woman"}
 {"krio": "This brbr get sense tay", "en": "The boy is very smart"}
 {"krio": "Di pikin de play na di sand", "en": "The child is playing in the sand."}
@@ -372,7 +372,7 @@
 {"krio": "nor fat na ya ooo", "en": "Don't foul here"}
 "krio": "Di wata don kam insai ose.", "en": "The water has entered the house."}
 {"krio": "Mi mama de go na town.", "en": "My mother is going to town."}
-{"krio": "Ar get for read me book.", "en": "I have to read my book."}
+{"krio": "Ar get for read me buk.", "en": "I have to read my book."}
 {"krio": "Di man de sell beef.", "en": "The man is selling meat."}
 {"krio": "Mi padi de eat garri.", "en": "My friend is eating garri."}
 {"krio": "Di pikin de learn for write.", "en": "The child is learning to write."}
@@ -389,7 +389,7 @@
 {"krio": "Ar wan drink juice.", "en": "I want to drink juice."}
 {"krio": "Mi fren sabi sing.", "en": "My friend knows how to sing."}
 {"krio": "Dem de wait for teacher.", "en": "They are waiting for the teacher."}
-{"krio": "Ar de clean me shoe.", "en": "I am cleaning my shoe."}
+{"krio": "Ar de clean me sus.", "en": "I am cleaning my shoe."}
 {"krio": "Mi bra de write note.", "en": "My brother is writing notes."}
 {"krio": "Di titi de dance.", "en": "The girl is dancing."}
 {"krio": "Dem don cook di soup.", "en": "They have cooked the soup."}
@@ -403,7 +403,7 @@
 {"krio": "Mi mama get cold.", "en": "My mother has a cold."}
 {"krio": "Ar de call you.", "en": "I am calling you."}
 {"krio": "Di rain de wet di cloth dem.", "en": "The rain is wetting the clothes."}
-{"krio": "Mi padi de shout.", "en": "My friend is shouting."}
+{"krio": "Mi padi de ala.", "en": "My friend is shouting."}
 {"krio": "Dem don reach na skul.", "en": "They have reached school."}
 {"krio": "Mi bra de bake bread.", "en": "My brother is baking bread."}
 {"krio": "Di teacher de beat wi.", "en": "The teacher is beating us."}
@@ -416,8 +416,35 @@
 {"krio": "Mi broda de opin di door.", "en": "My brother is opening the door."}
 {"krio": "Ar de plan trip.", "en": "I am planning a trip."}
 {"krio": "Mi mama de wash pan.", "en": "My mother is washing the pot."}
-{"krio": "Di pikin de wear shoe.", "en": "The child is wearing shoes."}
+{"krio": "Di pikin de wear sus.", "en": "The child is wearing shoes."}
 {"krio": "Dem don finish assignment.", "en": "They have finished the assignment."}
 {"krio": "Ar go na party.", "en": "I will go to the party."}
 {"krio": "Di fish don bon.", "en": "The fish is burnt."}
 {"krio": "as ar bigin fil sik so , a go na mi ose", "en": "As i started to feel sick i went to my house"}
+{"krio": "Di chen nor bin de usai ihn kin de", "en": "The chain is wasn't where it usually is"}
+{"krio": "Mi dadi na bin ticha", "en": "My dad was a teacher"}
+{"krio": "ar get fo buy binch", "en": "I have to buy beans"}
+{"krio": "somtem ar go kam tumara", "en": "Maybe i will come tomorrow"}
+{"krio": "me beleh de at", "en":"My stomach is paining me"}
+{"krio": "me fot don swell", "en": "My foot is swollen"}
+{"krio": "ar de go buy kasada na makit", "en": "I am going to buy cassava at the market"}
+{"krio": "ihn sidom de ala", "en": "He sat down and shouted"}
+{"krio": "na this meresin men am", "en": "He was cured by this medicine"}
+{"krio": "the dokta say le ihn buy dem meresin ya", "en":"The doctor said he should buy these medicines"}
+{"krio": "sidom blo lili bit", "en": "Sit and Rest for a while"}
+{"krio": "Posin kin it dis friut?", "en": "This friut can be eaten?"}
+{"krio": "the dog ihn tel kot komot", "en": "The dog's tail caught off"}
+{"krio": "a nor bin get fo go", "en": "I didn't have to go"}
+{"krio": "na snek kil am", "en":"He was killed by the snake"}
+{"krio": "ihn slipul fodom na gron", "en": "He slipped and fell on the floor"}
+{"krio": "plenti pipul dem na salon na fama dem", "en": "Alot of people in Sierra Leone are farmers"}
+{"krio": "San nor komot et", "en":"The sun hasn't risen yet"}
+{"krio":  " ren de kam since dis morni"  , "en": "Rain has been coming since this morning"}
+{"krio":  "Di man dem sus diya"  , "en": "The men's shoes are expensive"}
+{"krio": "Di sem ples we ar go", "en": "The same place that i went?"}
+{"krio": "udat ehn udat bin kam", "en":"Who were the people that came"}
+{"krio": "us wan ehn us wan u want", "en": "Which ones do you want"}
+{"krio":  "ar get wan nui buk"  , "en": "I have a new book"}
+{"krio":  "ihn kin it pas dem ol"  , "en": "He eats the most"}
+{"krio": "ihn waka slow pas mi broda", "en": "He walked more slowly than his brother"}
+{"krio": "ihn tu big", "en": "It's too big"}
