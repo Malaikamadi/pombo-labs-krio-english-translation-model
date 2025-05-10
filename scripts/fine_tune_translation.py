@@ -8,7 +8,7 @@ from transformers import (
 )
 import torch
 
-# 1. Load your dataset
+# 1. Load  dataset
 dataset = load_dataset('json', data_files='krio_en_pairs_cleaned.jsonl', split='train')
 
 # 2. Load tokenizer and model
@@ -19,7 +19,11 @@ tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
 tokenizer.src_lang = "eng_Latn"
 tokenizer.tgt_lang = "eng_Latn"
 
-model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
+model = AutoModelForSeq2SeqLM.from_pretrained(
+    model_checkpoint,
+    device_map="auto",
+    torch_dtype="auto"  
+)
 
 # 3. Preprocessing function
 def preprocess_function(examples):
@@ -59,5 +63,5 @@ trainer = Trainer(
     tokenizer=tokenizer,
 )
 
-# 8. Start training
+# 8. training
 trainer.train()
